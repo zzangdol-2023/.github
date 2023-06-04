@@ -2,8 +2,12 @@
 ## 2023 KNU ICT-DNA Capston Projects 
 Develop AUTUNOMOUS CAR SYSTEM with ROS
 
-### Contributors.
-GeonhaPark, GeoChoi, GyuCheolJung, JeonChulBaek, JeongHyunSong
+## Contributors.
+**GeonhaPark <geonhab504@gmail.com> **    
+**GeoChoi <>**     
+**GyuCheolJung**   
+**JeonChulBaek**   
+**JeongHyunSong <fight0105@gmail.com>**
 
 ## Notion Sites.
 https://zzangdol-knu-2023.notion.site/3f345f93db1e44d59cb8be346ade0d8f
