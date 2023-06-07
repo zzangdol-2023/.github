@@ -3,7 +3,7 @@ Develop AUTUNOMOUS CAR SYSTEM with ROS
 
 ## Contributors.
 **GeonhaPark <geonhab504@gmail.com>**    
-**GeoChoi <>**     
+**GeoChoi <snowgeo@gmail.com>**     
 **GyuCheolJung**   
 **JeonChulBaek**   
 **JeongHyunSong <fight0105@gmail.com>**
