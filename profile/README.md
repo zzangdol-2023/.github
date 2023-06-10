@@ -5,7 +5,7 @@ Develop AUTUNOMOUS CAR SYSTEM with ROS
 **GeonhaPark <geonhab504@gmail.com>**    
 **GeoChoi <snowgeo@gmail.com>**     
 **GyuCheolJung**   
-**JeonChulBaek**   
+**JeongCherBaek butcheriron9734@gmail.com**    
 **JeongHyunSong <fight0105@gmail.com>**
 
 ## Notion Sites.
