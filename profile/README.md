@@ -1,5 +1,5 @@
 # 2023 KNU ICT-DNA Capston Projects 👋
-Develop AUTUNOMOUS CAR SYSTEM with ROS
+Develop AUTONOMOUS CAR SYSTEM with ROS
 
 ## Contributors.
 **GeonhaPark <geonhab504@gmail.com>**    
@@ -11,6 +11,11 @@ Develop AUTUNOMOUS CAR SYSTEM with ROS
 ## Notion Sites.
 https://zzangdol-knu-2023.notion.site/3f345f93db1e44d59cb8be346ade0d8f
 
+## Specification
+- Car Firmware
+- Ros Navigation Stack Wrapper 
+- Cartographer Slam Wrapper
+- etc..
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
