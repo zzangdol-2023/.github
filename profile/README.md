@@ -15,6 +15,6 @@ https://zzangdol-knu-2023.notion.site/3f345f93db1e44d59cb8be346ade0d8f
 - Car Firmware
 - Ros Navigation Stack Wrapper 
 - Cartographer Slam Wrapper
-- ORBSlam2 Wrapper based on docker compose 
+- Ready-to-use implementation of ORB SLAM 2 on ROS (with docker compose). 
 - Devlogs -> map files
 - etc..
